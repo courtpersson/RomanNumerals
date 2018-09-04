@@ -31,6 +31,6 @@ Built With -
 Java+Eclipse 
 
 
-Authors
+Authors: 
 Courtnee Mendes-Persson
 
